@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fionahavelock
-- 👀 I’m interested in Data Science and Web development
-- 🌱 I’m currently learning Python and R 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning C# and Python 
 
 <!---
 fionahavelock/fionahavelock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
